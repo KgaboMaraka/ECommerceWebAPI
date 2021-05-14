@@ -215,6 +215,13 @@
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="SQL Scripts\BasketProducts.sql" />
+    <Content Include="SQL Scripts\Baskets.sql" />
+    <Content Include="SQL Scripts\BundleProducts.sql" />
+    <Content Include="SQL Scripts\Bundles.sql" />
+    <Content Include="SQL Scripts\Categories.sql" />
+    <Content Include="SQL Scripts\Customers.sql" />
+    <Content Include="SQL Scripts\Products.sql" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
